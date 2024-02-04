@@ -7,29 +7,29 @@ Hey there! 👨‍💻 I'm Pragya, a versatile developer passionate about crafti
 
 ✨ I bring a wealth of experience from both private company and freelance work. 
 
-## Programming Languages
+Programming Languages : 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![C++](https://img.shields.io/badge/C++-brightgreen)
 ![Java](https://img.shields.io/badge/Java-8-orange)
 
-## Full-Stack Web Development
+Full-Stack Web Development : 
 ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-MongoDB%2C%20Express%2C%20React%2C%20Node-brightgreen)
 
-## Web Interfaces
+Web Interfaces : 
 ![HTML5](https://img.shields.io/badge/HTML5-red)
 ![CSS3](https://img.shields.io/badge/CSS3-blueviolet)
 
-## Data Analysis
+Data Analysis : 
 ![Pandas](https://img.shields.io/badge/Pandas-1.x-yellowgreen)
 ![NumPy](https://img.shields.io/badge/NumPy-1.x-blue)
 
-## Database Management Systems
+Database Management Systems : 
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet)
 ![CMS](https://img.shields.io/badge/CMS-orange)
 
-## Other Skills
+Other Skills : 
 ![Content Management System (CMS)](https://img.shields.io/badge/CMS-lightblue)
 ![Google Suite](https://img.shields.io/badge/Google%20Suite-blue)
 ![Wix](https://img.shields.io/badge/Wix-green)
