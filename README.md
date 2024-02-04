@@ -44,5 +44,7 @@ Feel free to connect with me or reach out for collaboration! 👋
 
 # ✨ Little bit of that python magic 
 <div align="Left">
-  <img src="https://github.com/pragya-jain-00/readme/assets/101741697/5adf45c1-48e9-4ad9-a10a-7f07ee2c5b09" width="50%" alt="Calendar in Python">
+  <img src="https://github.com/pragya-jain-00/pragya-jain-00/assets/101741697/15417a48-ba5b-4e92-b596-1cfaf7d0ae61" width="50%" alt="Calendar in Python">
 </div>
+
+
