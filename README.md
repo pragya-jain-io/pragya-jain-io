@@ -1,7 +1,5 @@
-# Hey!
-# 👋 ABOUT ME
-
-Hey there! 👨‍💻 I'm Pragya, a versatile developer passionate about crafting robust and performant solutions. I have a keen eye for accessibility and believe in writing code that stands the test of time. My love for technology extends beyond coding—I'm always ready to help and engage with the community on GitHub, Stack Overflow, or any tech platform where knowledge flows.
+# 🌏Hello World
+👨‍💻 I'm Pragya, a versatile developer passionate about crafting robust and performant solutions. I have a keen eye for accessibility and believe in writing code that stands the test of time. My love for technology extends beyond coding—I'm always ready to help and engage with the community on GitHub, Stack Overflow, or any tech platform where knowledge flows.
 
 # 🚀 EXPERIENCE
 
@@ -35,7 +33,7 @@ Other Skills:
 ![Wix](https://img.shields.io/badge/Wix-555555)
 
 
-# Connect with Me
+# 🖇️Connect with Me
 
 Feel free to connect with me or reach out for collaboration! 👋
 
