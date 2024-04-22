@@ -37,7 +37,7 @@ Other Skills:
 
 Feel free to connect with me or reach out for collaboration! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pragya-jain-it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pragya-jain-io)
 [![Email](https://img.shields.io/badge/Email-Send%20an%20Email-red)](mailto:123pragya.jain122@gmail.com)
 
 
