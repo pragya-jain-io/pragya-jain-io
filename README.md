@@ -1,9 +1,11 @@
 # 🌏Hello World
-👨‍💻 I'm Pragya, a versatile developer passionate about crafting robust and performant solutions. I have a keen eye for accessibility and believe in writing code that stands the test of time. My love for technology extends beyond coding—I'm always ready to help and engage with the community on GitHub, Stack Overflow, or any tech platform where knowledge flows.
+👋 Hi! I'm Pragya. I love using technology to make good things happen. I know a lot about computers and how to build stuff. I enjoy working with others and learning new things. Outside of tech, I care about helping children and protecting the environment. Let's team up and do something awesome! 💻✨
+
+
 
 # 🚀 EXPERIENCE
 
-✨ I bring a wealth of experience from both private company and freelance work. 
+✨ I bring a lot of experience from both private companies and freelance work. 
 
 Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3.x-555555)
