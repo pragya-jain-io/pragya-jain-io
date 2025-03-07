@@ -1,11 +1,11 @@
-# 🌏Hello World
-👋 Hi! I'm Pragya. I love using technology to make good things happen. I know a lot about computers and how to build stuff. I enjoy working with others and learning new things. Outside of tech, I care about helping children and protecting the environment. Let's team up and do something awesome! 💻✨
+## 🌏Hello Anyone
+👋 I'm Pragya. I love using technology to make my life (maybe others as well) easy . I won't say I know a lot about computers but I would say I know fair enough. I enjoy collaborating with others and learning new things. Outside of tech, I care about helping children and protecting the environment. Let's team up and do something awesome! 💻✨
 
 
 
 # 🚀 EXPERIENCE
 
-✨ I bring a lot of experience from both private companies and freelance work. 
+✨ I have worked with startups, mid stage companies, MNCs, Professors, and freelancers.
 
 Programming Languages:
 ![Python](https://img.shields.io/badge/Python-555555)
@@ -37,15 +37,9 @@ Other Skills:
 
 # 🖇️Connect with Me
 
-Feel free to connect with me or reach out for collaboration! 👋
+Feel free to connect with me or reach out for literally anything! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pragya-jain-io)
 [![Email](https://img.shields.io/badge/Email-Send%20an%20Email-red)](mailto:123pragya.jain122@gmail.com)
-
-
-# ✨ Little bit of that python magic 
-<div align="Left">
-  <img src="https://github.com/pragya-jain-00/pragya-jain-00/assets/101741697/15417a48-ba5b-4e92-b596-1cfaf7d0ae61" width="80%" alt="Calendar in Python">
-</div>
 
 
