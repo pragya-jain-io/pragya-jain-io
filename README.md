@@ -1,11 +1,11 @@
 ## 🌏Hello Anyone
-👋 I'm Pragya. I love using technology to make my life (maybe others as well) easy . I won't say I know a lot about computers but I would say I know fair enough. I enjoy collaborating with others and learning new things. Outside of tech, I care about helping children and protecting the environment. Let's team up and do something awesome! 💻✨
+👋 I'm Pragya. I love using technology to make my life (and maybe others' lives as well) easier. I wouldn't say I know everything about computers, but I have a fair understanding. I enjoy collaborating with others and learning new things. Outside of tech, I care deeply about protecting the environment... so maybe next time, use one less tissue. Let's team up and do something awesome! 💻✨
 
 
 
 # 🚀 EXPERIENCE
 
-✨ I have worked with startups, mid stage companies, MNCs, Professors, and freelancers.
+✨ I have worked with startups, mid-stage companies, MNCs, professors, and more.
 
 Programming Languages:
 ![Python](https://img.shields.io/badge/Python-555555)
