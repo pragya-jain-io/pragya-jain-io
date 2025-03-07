@@ -1,4 +1,4 @@
-## 🌏Hello Anyone
+## Dear Reader
 👋 I'm Pragya. I love using technology to make my life easier (maybe others' lives as well). I wouldn't say I know everything about computers, but I have a fair understanding. I enjoy collaborating with others and learning new things. Outside of tech, I care deeply about protecting the environment... so maybe next time, use one less tissue. Let's team up and do something awesome! 💻✨
 
 
