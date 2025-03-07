@@ -1,11 +1,12 @@
-## Dear Reader
-👋 I'm Pragya. I love using technology to make my life easier (maybe others' lives as well). I wouldn't say I know everything about computers, but I have a fair understanding. I enjoy collaborating with others and learning new things. Outside of tech, I care deeply about protecting the environment... so maybe next time, use one less tissue. Let's team up and do something awesome! 💻✨
+## Dearest Reader,
+I am Pragya, a humble scholar, ever seeking to tame the wild spirits of computation to do my bidding—be it for mine own sake or, mayhap, thine as well. I lay no claim to boundless wisdom in this craft, yet my knowledge is well-rooted and ever-growing. Great is my joy in the company of kindred minds, those who thirst for learning and delight in discourse both merry and profound.
+
+Yet, beyond these realms of code and cipher, my heart beats for the welfare of our fair and fragile earth ...thus, I entreat thee, squander not where thrift will serve. Let us join hands and shape a future both wondrous and wise! 💻
 
 
+# Deeds & Proven Wits
 
-# 🚀 EXPERIENCE
-
-✨ I have worked with startups, mid-stage companies, MNCs, professors, and more.
+✨ I have lent mine aid to fledgling ventures, well-fortified houses of trade, great empires of commerce, and learned scholars alike.
 
 Programming Languages:
 ![Python](https://img.shields.io/badge/Python-555555)
@@ -35,12 +36,10 @@ Other Skills:
 ![Wix](https://img.shields.io/badge/Wix-555555)
 
 
-# 🖇️Connect with Me
+# Seek Me Out
 
-Feel free to connect with me or reach out for literally anything! 👋
+Shouldst thou wish to make acquaintance, speak of work, or merely pass the time in pleasant company, hesitate not to send word!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pragya-jain-io)
 [![Email](https://img.shields.io/badge/Email-Send%20an%20Email-red)](mailto:123pragya.jain122@gmail.com)
 [![Owl Maybe?](https://img.shields.io/badge/Owl-Send%20an%20Owl-pink)](mailto:123pragya.jain122@gmail.com)
-
-
