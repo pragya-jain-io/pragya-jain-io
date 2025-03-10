@@ -1,44 +1,50 @@
-## Dearest Reader,
-I am Pragya, a humble scholar, ever seeking to tame the wild spirits of computation to do my bidding—be it for mine own sake or, mayhap, thine as well. I lay no claim to boundless wisdom in this craft, yet my knowledge is well-rooted and ever-growing. Great is my joy in the company of kindred minds, those who thirst for learning and delight in discourse both merry and profound.
+## hi
+i am Pragya.
 
-Yet, beyond these realms of code and cipher, my heart beats for the welfare of our fair and fragile earth ...thus, I entreat thee, squander not where thrift will serve. Let us join hands and shape a future both wondrous and wise! 💻
+## i have worked with
 
+startups, professors, mid-stage companies, big corporates, freelancers, etc.
 
-# Deeds & Proven Wits
+and i have used 
 
-✨ I have lent mine aid to fledgling ventures, well-fortified houses of trade, great empires of commerce, and learned scholars alike.
-
-Programming Languages:
-![Python](https://img.shields.io/badge/Python-555555)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-555555)
-![C++](https://img.shields.io/badge/C++-555555)
-![Java](https://img.shields.io/badge/Java-8-555555)
-
-Full-Stack Web Development:
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-MongoDB%2C%20Express%2C%20React%2C%20Node-555555)
-
-Web Interfaces:
-![HTML5](https://img.shields.io/badge/HTML5-555555)
-![CSS3](https://img.shields.io/badge/CSS3-555555)
-
-Data Analysis:
-![Pandas](https://img.shields.io/badge/Pandas-555555)
-![NumPy](https://img.shields.io/badge/NumPy-555555)
-
-Database Management Systems:
-![MySQL](https://img.shields.io/badge/MySQL-555555)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555)
-![CMS](https://img.shields.io/badge/CMS-555555)
-
-Other Skills:
-![Content Management System (CMS)](https://img.shields.io/badge/CMS-555555)
-![Google Suite](https://img.shields.io/badge/Google%20Suite-555555)
-![Wix](https://img.shields.io/badge/Wix-555555)
+#### programming languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-# Seek Me Out
+#### full stack development
+![MERN Stack](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white)
 
-Shouldst thou wish to make acquaintance, speak of work, or merely pass the time in pleasant company, hesitate not to send word!
+
+#### front end development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+#### data analysis and machine learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+#### databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+#### back end tools and frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
+
+
+#### cloud and devops
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+#### automation tools
+![Adobe Fusion](https://img.shields.io/badge/Adobe%20Fusion-FF0000?style=for-the-badge&logo=adobe&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-00C7B7?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+#### other skills
+![CMS](https://img.shields.io/badge/CMS-FF7F50?style=for-the-badge&logo=wordpress&logoColor=white) ![Google Suite](https://img.shields.io/badge/Google%20Suite-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+i am gonna keep adding the stuff i have worked with
+
+## feel free to reach me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pragya-jain-io)
 [![Email](https://img.shields.io/badge/Email-Send%20an%20Email-red)](mailto:123pragya.jain122@gmail.com)
