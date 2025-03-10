@@ -3,7 +3,7 @@ i am Pragya.
 
 ## i have worked with
 
-startups, professors, mid-stage companies, big corporates, freelancers, etc.
+startups, mid-stage companies, big corporates, my father, freelancers, professors, etc.
 
 and i have used 
 
