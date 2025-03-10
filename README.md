@@ -36,7 +36,7 @@ and i have used
 
 
 #### automation tools
-![Adobe Fusion](https://img.shields.io/badge/Adobe%20Fusion-FF0000?style=for-the-badge&logo=adobe&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-00C7B7?style=for-the-badge&logo=microsoft&logoColor=white)
+![Adobe Workfront Fusion](https://img.shields.io/badge/Adobe%20Workfront%20Fusion-FF0000?style=for-the-badge&logo=adobe&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-00C7B7?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
 #### other skills
