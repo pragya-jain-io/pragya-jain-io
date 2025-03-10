@@ -42,7 +42,7 @@ and i have used
 #### other skills
 ![CMS](https://img.shields.io/badge/CMS-FF7F50?style=for-the-badge&logo=wordpress&logoColor=white) ![Google Suite](https://img.shields.io/badge/Google%20Suite-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-i am gonna keep adding the stuff i have worked with
+i am going to keep adding the things i have worked with
 
 ## feel free to reach me 
 
