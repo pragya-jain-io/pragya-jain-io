@@ -47,5 +47,5 @@ will keep adding as many commas as life requires...
 ## feel free to reach me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pragya-jain-io)
-[![Email](https://img.shields.io/badge/Email-Send%20an%20Email-red)](mailto:123pragya.jain122@gmail.com)
-[![Owl Maybe?](https://img.shields.io/badge/Owl-Send%20an%20Owl-pink)](mailto:123pragya.jain122@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Send%20an%20Email-red)](mailto:pragya.jain0662@gmail.com)
+[![Owl Maybe?](https://img.shields.io/badge/Owl-Send%20an%20Owl-pink)](mailto:pragya.jain0662@gmail.com)
